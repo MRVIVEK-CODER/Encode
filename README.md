@@ -9,6 +9,11 @@
  
 #### Run > python2 encode.py
  
+### SCREENSHOT ###
+<p align="center">
+ <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/Screenshot_20210609-115721.jpg" width="640" title="Menu" alt="Menu">
+ 
+
 ## Find Me on :
  
 [![Github](https://img.shields.io/badge/Github-VivekXD-green?style=for-the-badge&logo=github)](https://github.com/MRVIVEK-CODER)
