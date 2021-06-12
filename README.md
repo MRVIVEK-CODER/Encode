@@ -11,7 +11,7 @@
  
 ### SCREENSHOT ###
 <p align="center">
- <img src="https://github.com/MRVIVEK-CODER/Encode/blob/main/Screenshot_20210613-023522.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/MRVIVEK-CODER/Encode/blob/main/Screenshot_20210613-031245__01.jpg" width="640" title="Menu" alt="Menu">
  
 
 ## Find Me on :
